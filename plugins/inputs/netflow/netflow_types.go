@@ -165,8 +165,8 @@ func (f flags) hasBit(bitno byte) bool {
 }
 
 func (f flags) String() string {
-	ans = []string{}
-	for n := 0; n < 8; n++ {
+	ans := []string{}
+	for n := byte(0); n < 8; n++ {
 		if f.hasBit(n) {
 			ans = append(ans, tflags[n])
 		}

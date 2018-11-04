@@ -1,0 +1,15 @@
+mode: set
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:10.31,10.62 1 0
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:124.35,125.40 1 1
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:125.40,127.3 1 1
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:127.8,129.3 1 1
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:155.40,157.2 1 0
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:159.40,160.16 1 1
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:160.16,162.3 1 1
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:162.8,164.3 1 0
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:167.32,169.31 2 1
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:174.2,174.31 1 1
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:169.31,170.18 1 1
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow_types.go:170.18,172.4 1 1
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow.go:16.45,18.2 1 0
+github.com/influxdata/telegraf/plugins/inputs/netflow/netflow.go:31.46,33.2 1 0
